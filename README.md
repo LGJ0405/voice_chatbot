@@ -1,4 +1,4 @@
-# voice_chatbot
+# voice_chatbot_실시간 요리 도우미 보이스 봇
 
 ### 개요
 
